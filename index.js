@@ -1,0 +1,1 @@
+requier('./app/index')
